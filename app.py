@@ -77,5 +77,5 @@ if st.button("Predict Price"):
 # Footer
 # -------------------------------
 st.markdown("---")
-st.caption("Made with ❤️ by Batman using Streamlit & scikit-learn")
+st.caption("Made with ❤️ by Rohit , Prasad , Praneeth and Kushal using Streamlit & scikit-learn")
 
